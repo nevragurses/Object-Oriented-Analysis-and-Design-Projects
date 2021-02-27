@@ -1,0 +1,1 @@
+I know, Second part of homework does not require code but for understanding design pattern that I mention in Report_Part2, I write a sample project and I add it.
